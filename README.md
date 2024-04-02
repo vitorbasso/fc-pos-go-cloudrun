@@ -4,6 +4,7 @@ Lab 1 pós go expert (cloudrun)
 ## TL;DR
 * O endpoint no cloud run é [`https://fc-pos-go-cloudrun-seg7tlb4wa-uc.a.run.app/temperatures/01501-000`](https://fc-pos-go-cloudrun-seg7tlb4wa-uc.a.run.app/temperatures/01501-000)
 * Pra rodar localmente <b style='font-size:1.5em'>você vai precisar configurar sua própria chave do weather api</b> ou no app.env ou no docker-compose
+* Os testes automatizados estão rodando pelo github actions
 
 ## Requerimentos
   * golang versão 1.22.1 ou superior
